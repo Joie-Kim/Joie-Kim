@@ -2,7 +2,7 @@
 
 ### `About`
 
-👩🏻‍💻 name: Kim Huiju (joie)
+👩🏻‍💻 Name: Kim Huiju (joie)
 
 📚 Blog: https://joie-kim.github.io/
 
