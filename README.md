@@ -6,6 +6,8 @@
 
 📚 Blog: https://joie-kim.github.io/
 
+💡 Resume: https://c11.kr/10pm1
+
 🖇 Contact: joie.huiju@gmail.com
 
 ### `Skills`
