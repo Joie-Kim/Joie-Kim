@@ -4,9 +4,11 @@
 
 👩🏻‍💻 Name: Kim Huiju (joie)
 
-📚 Blog: https://joie-kim.github.io/
+💛 Notion: [https://joie-kim.notion.site/](https://joie-kim.notion.site/Hello-I-m-Joie-Kim-192e5554dbe84c6ebdc20eeb04d8f5e5)
 
-💡 Resume: https://c11.kr/10pm1
+💡 Resume: [https://joie-kim.notion.site/resume](https://joie-kim.notion.site/b24a859880cc458d9f7d407bcb560a82)
+
+📚 Blog: https://joie-kim.github.io/
 
 🖇 Contact: joie.huiju@gmail.com
 
@@ -17,5 +19,3 @@
 
 <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=React&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=React&logoColor=white" />&nbsp;
-
-<img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white" />&nbsp;
