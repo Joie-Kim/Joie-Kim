@@ -4,8 +4,6 @@
 
 👩🏻‍💻 Name: Kim Huiju (joie)
 
-💛 Notion: [https://joie-kim.notion.site/](https://joie-kim.notion.site/Hello-I-m-Joie-Kim-192e5554dbe84c6ebdc20eeb04d8f5e5)
-
 💡 Resume: [https://joie-kim.notion.site/resume](https://joie-kim.notion.site/b24a859880cc458d9f7d407bcb560a82)
 
 📚 Blog: https://joie-kim.github.io/
