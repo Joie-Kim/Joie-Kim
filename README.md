@@ -17,3 +17,7 @@
 
 <img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=React&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=React&logoColor=white" />&nbsp;
+
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
