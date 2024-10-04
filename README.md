@@ -6,8 +6,6 @@
 
 💡 Resume: [https://joie-kim.notion.site/resume](https://joie-kim.notion.site/b24a859880cc458d9f7d407bcb560a82)
 
-📚 Blog: https://joie-kim.github.io/
-
 🖇 Contact: joie.huiju@gmail.com
 
 ### `Skills`
